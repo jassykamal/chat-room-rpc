@@ -1,0 +1,6 @@
+# Compiled binaries
+*.exe
+*.out
+/server/server
+/client/client
+/bin/
